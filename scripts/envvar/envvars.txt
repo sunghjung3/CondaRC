@@ -1,0 +1,3 @@
+PATH /home/user/dummypath
+PYTHONPATH /home/user/pypkg a
+# the last 'a' above is to append instead of prepend

@@ -1,0 +1,2 @@
+swap intel gnu12
+load cuda
