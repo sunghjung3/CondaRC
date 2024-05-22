@@ -14,6 +14,7 @@ For instance, you may always want the `intel` compiler module loaded with Conda 
 Or, you may have a cloned Git repo that you want to include in your `PYTHONPATH` environmental variable only when working with 1 project but not others.
 
 This repo contains files and scripts that automates this process by incorporating into `conda [de]activate`.
+It's like `.bashrc` (or `.bash_profile`) but for Conda, hence the name "CondaRC".
 
 ## Description
 
